@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #67b6a973;
+}
+
+.titulo {
+    font-family: Calibri;
+    color: black;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.btn-color {
+    background-color:#FF3366;
+    border-color: #FF3366;
+    border-radius: 25px;
+    width: 100%;
+}
+
+btn-color: hover {
+    background-color: #FF3366;
+    border-color: #FF3366;
+
+}
